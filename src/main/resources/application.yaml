@@ -1,0 +1,10 @@
+properties:
+  - name: helloA
+    type: A
+    somePropertyInherentForA: hello I am a property of A
+  - name: helloB
+    type: B
+    somePropertyInherentForB: hello I am a property of B
+
+logging.file: debug.log
+logging.level.root: debug
